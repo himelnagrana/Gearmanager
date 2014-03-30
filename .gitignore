@@ -1,5 +1,8 @@
-vendor
+.idea
+.sublime-project
+vendor/*
+config.yml
+templates/cache
+tests/log
 composer.phar
-phpunit.xml
-composer.lock
 .DS_Store
