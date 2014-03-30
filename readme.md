@@ -1,7 +1,7 @@
 Nag Gearmanager
 ===================
 
-# Version 1.0.0 [first release]
+### Version 1.0.0 [first release]
 
 ## Use
 
@@ -33,20 +33,19 @@ Based on the priority required for application the following functions can be us
 ``fireParallel()``
 ``fireUrgent()``
 
-# ``fireEvent()`` and ``fireParallel()`` arguments:
+#### ``fireEvent()`` and ``fireParallel()`` arguments:
 
 string ``$task`` [fully qualified task class name]
 array ``$payload``
 string ``$priority`` [values: normal, low, high; default value is 'normal']
 
-# ``fireUrgent()`` arguments:
+#### ``fireUrgent()`` arguments:
 
 * string ``$task`` [fully qualified task class name]
 * array ``$payload``
 * string ``$priority`` [values: low, high; default value is 'low']
 
-It returns
-*string $response
+It returns string ``$response``
 
 ## Example
 

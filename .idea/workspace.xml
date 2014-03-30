@@ -10,7 +10,7 @@
     <file path="/GetMatchingJobs.php" changelist="5adbe0f9-6f11-496b-ac3e-c4797d6dda9c" time="1396183125683" ignored="false" />
     <file path="/BaseTask.php" changelist="5adbe0f9-6f11-496b-ac3e-c4797d6dda9c" time="1396183768467" ignored="false" />
     <file path="/Gearman.php" changelist="5adbe0f9-6f11-496b-ac3e-c4797d6dda9c" time="1396184155266" ignored="false" />
-    <file path="/readme.md" changelist="5adbe0f9-6f11-496b-ac3e-c4797d6dda9c" time="1396187715105" ignored="false" />
+    <file path="/readme.md" changelist="5adbe0f9-6f11-496b-ac3e-c4797d6dda9c" time="1396188060166" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,19 +30,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="composer.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/composer.json">
+      <file leaf-file-name="readme.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="82" selection-start="75" selection-end="137" vertical-scroll-proportion="-2.4444444">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="93" selection-end="93" vertical-scroll-proportion="0.3003413">
+            <state line="47" column="31" selection-start="985" selection-end="985" vertical-scroll-proportion="0.5008726">
               <folding />
             </state>
           </provider>
@@ -62,8 +53,8 @@
         <option value="$PROJECT_DIR$/src/Nag/BaseTask.php" />
         <option value="$PROJECT_DIR$/src/Nag/Gearmanager.php" />
         <option value="$PROJECT_DIR$/composer.json" />
-        <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
@@ -299,13 +290,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="3" selection-start="1504" selection-end="1504" vertical-scroll-proportion="2.8027923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Nag/Gearmanager.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="41" column="29" selection-start="1132" selection-end="1141" vertical-scroll-proportion="0.04029304">
@@ -317,16 +301,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="82" selection-start="75" selection-end="137" vertical-scroll-proportion="-2.4444444">
+        <state line="8" column="0" selection-start="93" selection-end="93" vertical-scroll-proportion="0.3003413">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="93" selection-end="93" vertical-scroll-proportion="0.3003413">
+        <state line="3" column="82" selection-start="75" selection-end="137" vertical-scroll-proportion="0.11806798">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="31" selection-start="985" selection-end="985" vertical-scroll-proportion="0.5008726">
           <folding />
         </state>
       </provider>
