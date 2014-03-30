@@ -10,11 +10,6 @@
             "name": "Himel Nag Rana",
             "email": "hnrana@gmail.com",
             "role": "developer"
-        },
-        {
-            "name": "Emran Hasan",
-            "email": "phpfour@gmail.com",
-            "role": "code inspirations"
         }
     ],
     "require": {
