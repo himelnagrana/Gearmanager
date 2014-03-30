@@ -1,0 +1,31 @@
+{
+    "name": "nag/gearmanager",
+    "type": "helper",
+    "description": "Small library for handling and managing gearman workers client",
+    "keywords": ["gearman", "worker", "background", "parallel"],
+    "homepage": "http://github.com/himelnagrana/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Himel Nag Rana",
+            "email": "hnrana@gmail.com",
+            "role": "developer"
+        },
+        {
+            "name": "Emran Hasan",
+            "email": "phpfour@gmail.com",
+            "role": "code inspirations"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.6",
+        "ext-json": "*",
+        "ext-gearman": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Nag": "src"
+        },
+        "classmap" :[ "src/Nag" ]
+    }
+}
