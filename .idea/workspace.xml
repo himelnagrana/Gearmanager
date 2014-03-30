@@ -10,7 +10,7 @@
     <file path="/GetMatchingJobs.php" changelist="5adbe0f9-6f11-496b-ac3e-c4797d6dda9c" time="1396183125683" ignored="false" />
     <file path="/BaseTask.php" changelist="5adbe0f9-6f11-496b-ac3e-c4797d6dda9c" time="1396183768467" ignored="false" />
     <file path="/Gearman.php" changelist="5adbe0f9-6f11-496b-ac3e-c4797d6dda9c" time="1396184155266" ignored="false" />
-    <file path="/readme.md" changelist="5adbe0f9-6f11-496b-ac3e-c4797d6dda9c" time="1396188060166" ignored="false" />
+    <file path="/readme.md" changelist="5adbe0f9-6f11-496b-ac3e-c4797d6dda9c" time="1396188151399" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +33,7 @@
       <file leaf-file-name="readme.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="31" selection-start="985" selection-end="985" vertical-scroll-proportion="0.5008726">
+            <state line="33" column="2" selection-start="563" selection-end="563" vertical-scroll-proportion="0.30890054">
               <folding />
             </state>
           </provider>
@@ -317,7 +317,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="31" selection-start="985" selection-end="985" vertical-scroll-proportion="0.5008726">
+        <state line="33" column="2" selection-start="563" selection-end="563" vertical-scroll-proportion="0.30890054">
           <folding />
         </state>
       </provider>

@@ -29,15 +29,15 @@ $tasks = array (
 
 Based on the priority required for application the following functions can be used
 
-``fireEvent()``
-``fireParallel()``
-``fireUrgent()``
+* ``fireEvent()``
+* ``fireParallel()``
+* ``fireUrgent()``
 
 #### ``fireEvent()`` and ``fireParallel()`` arguments:
 
-string ``$task`` [fully qualified task class name]
-array ``$payload``
-string ``$priority`` [values: normal, low, high; default value is 'normal']
+* string ``$task`` [fully qualified task class name]
+* array ``$payload``
+* string ``$priority`` [values: normal, low, high; default value is 'normal']
 
 #### ``fireUrgent()`` arguments:
 
